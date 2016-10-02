@@ -1,0 +1,17 @@
+old version
+996 {7,6,5,4,3,2,1,0}
+732 {0,1,2,3,4,5,6,7}
+996 {0,0,0,0,0,0,0,0}
+1020 {0,1,2,3,0,1,2,3}
+
+old version copy (com poda de parent node)
+156 -- 15% dos passos do old version
+329 -- 50%
+122 -- 12%
+52  -- 5%
+
+version
+156
+329
+122
+52
